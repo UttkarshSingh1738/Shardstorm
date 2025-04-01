@@ -31,8 +31,6 @@
 
 ## 📸 Screenshots (Coming Soon)
 
-> Add screenshots or GIFs here once gameplay visuals are ready.
-
 ---
 
 ## 🧩 Controls
@@ -64,6 +62,6 @@
 
 ## 🎮 Playtest Builds
 
-Coming soon – builds will be posted under [Releases](https://github.com/your-username/shardstorm/releases) for testing.
+Coming soon – builds will be posted under [Releases](https://github.com/UttkarshSingh1738/shardstorm/releases) for testing.
 
 ---
