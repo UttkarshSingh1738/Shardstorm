@@ -38,7 +38,7 @@
 ![](./Screenshots/Screenshot4.png)
 ![](./Screenshots/Screenshot5.png)
 ![](./Screenshots/Screenshot6.png)
----
+
 
 ## 🧩 Controls
 
@@ -69,6 +69,6 @@
 
 ## 🎮 Playtest Builds
 
-Coming soon – builds will be posted under [Releases](https://github.com/your-username/shardstorm/releases) for testing.
+Coming soon – builds will be posted under [Releases](https://github.com/UttkarshSingh1738/shardstorm/releases) for testing.
 
 ---
