@@ -32,7 +32,12 @@
 ## 📸 Screenshots (Coming Soon)
 
 > Add screenshots or GIFs here once gameplay visuals are ready.
-
+![](./Screenshots/Screenshot1.png)
+![](./Screenshots/Screenshot2.png)
+![](./Screenshots/Screenshot3.png)
+![](./Screenshots/Screenshot4.png)
+![](./Screenshots/Screenshot5.png)
+![](./Screenshots/Screenshot6.png)
 ---
 
 ## 🧩 Controls
