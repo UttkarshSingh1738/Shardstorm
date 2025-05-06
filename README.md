@@ -8,29 +8,32 @@
 ## 🎮 Gameplay Overview
 
 - **Objective:**  
-  Collect all 10 gems scattered across the level while surviving waves of cannonballs and enemy attacks.
+  Survive waves of swarming enemies and environmental hazards while collecting gems to win the level.
 
 - **Core Mechanics:**
-  - Third-person movement with double jump + glide.
-  - Stomp on enemies to eliminate them.
-  - Avoid cannonballs and projectiles from aerial turrets and a boss.
-  - Pick up health packs to stay alive.
-  - Constantly moving, fast-paced adrenaline gameplay.
-
+  - Third-person movement with **dash** and **stomp** abilities.
+  - Use **Left Click** to drop delayed-detonation bombs.
+  - **Dash** with Left Shift to escape danger or reposition quickly.
+  - **Stomp** enemies with 'F' to deal radial damage and apply impulse.
+  - Avoid falling cannonballs and enemy swarms.
+  - Recover stamina to perform special actions.
+  - Constantly moving, reflex-heavy gameplay loop.
 ---
 
 ## 🧱 Features
 
-- Floating turrets that drop cannonballs.
-- Enemies with chase AI (one minion and one boss).
-- Stomp mechanic to kill enemies.
-- Gem collection with win condition.
-- Health system with pickups that respawn.
-- One completed level with dark, lava-themed visuals.
+- **Swarm-based AI** enemies (android ad-style wave mechanic).
+- **Improved stomp mechanic** with real impulse and visual feedback.
+- **New stamina system** that powers dash and stomp moves.
+- **Shooting mechanic**: Drop bombs with Left Click that explode after 3 seconds.
+- **Enemies now have health**, requiring multiple attacks.
+- **Updated UI**: White score display, stamina (energy) bar added.
+- **Quicker movement** and **recovery from hits** for fluid pacing.
+- **Bug fix**: Player no longer moves after death.
 
 ---
 
-## 📸 Screenshots (Coming Soon)
+## 📸 Screenshots
 
 > Add screenshots or GIFs here once gameplay visuals are ready.
 ![](./Screenshots/Screenshot1.png)
@@ -46,10 +49,11 @@
 | Action        | Key/Mouse        |
 |---------------|------------------|
 | Move          | WASD             |
+| Dash          | Left Shift       |
 | Jump          | Space            |
-| Glide         | Double-tap + hold Space |
-| Stomp         | Jump above enemy |
-| (Upcoming) Shoot | Left Click |
+| Stomp         | F                |
+| Drop Bomb     | Left Click       |
+
 
 ---
 
@@ -60,16 +64,15 @@
 ## 🚧 Roadmap
 
 - [x] Core prototype with level, enemies, gems, and health
-- [ ] Add ranged shooting mechanic
-- [ ] Additional enemy types
-- [ ] New level themes (jungle, tech ruins, etc.)
-- [ ] Sound effects & background music
+- [x] Add delayed bomb shooting mechanic (Left Click)
+- [x] Additional enemy types with health and spawn logic
+- [x] Dash and stamina systems for more mobility
+- [x] Improved stomp and enemy interaction
+- [x] Faster player recovery for smoother pacing
+- [ ] Main enemy overhaul (new design, more spawns)
+- [ ] Polish respawn button functionality
+- [ ] Sound effects & UI/audio asset syncing
 - [ ] Menu UI and pause system
 
----
-
-## 🎮 Playtest Builds
-
-Coming soon – builds will be posted under [Releases](https://github.com/UttkarshSingh1738/shardstorm/releases) for testing.
 
 ---
