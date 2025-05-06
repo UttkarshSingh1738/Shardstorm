@@ -30,7 +30,7 @@
 - **Updated UI**: White score display, stamina (energy) bar added.
 - **Quicker movement** and **recovery from hits** for fluid pacing.
 - **Bug fix**: Player no longer moves after death.
-
+- **Bug fix #2**: Successful Packaging for Windows.
 ---
 
 ## 📸 Screenshots
