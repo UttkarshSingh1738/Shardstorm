@@ -33,7 +33,7 @@
 - **Bug fix #2**: Successful Packaging for Windows.
 ---
 
-## 📸 Screenshots
+## 📸 Screenshots (Old v2.0)
 
 > Add screenshots or GIFs here once gameplay visuals are ready.
 ![](./Screenshots/Screenshot1.png)
